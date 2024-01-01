@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/andre/.m2/repository/com/mysql/mysql-connector-j/8.0.20/mysql-connector-j-8.0.20.jar;C:/Users/andre/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.12/org.eclipse.persistence.core-2.7.12.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.4.0/org.eclipse.persistence.asm-9.4.0.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.12/org.eclipse.persistence.antlr-2.7.12.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.12/org.eclipse.persistence.jpa-2.7.12.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.12/org.eclipse.persistence.jpa.jpql-2.7.12.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.12/org.eclipse.persistence.moxy-2.7.12.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/andre/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.12/org.eclipse.persistence.jpa.modelgen.processor-2.7.12.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/andre/Documents/HACK A BOSS/ADVANCED JAVA/WEEK 1/Assessment1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/andre/Documents/HACK A BOSS/ADVANCED JAVA/WEEK 1/Assessment1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Assessment1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Assessment1 1.0-SNAPSHOT API'

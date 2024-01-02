@@ -4,9 +4,7 @@ practicalexercises\assessment1\models\Employee.class
 practicalexercises\assessment1\services\EmployeeService.class
 practicalexercises\assessment1\persistence\exceptions\PreexistingEntityException.class
 practicalexercises\assessment1\persistence\PersistenceController.class
-practicalexercises\assessment1\entities\ThreadReturnMessage.class
 practicalexercises\assessment1\Menu.class
-practicalexercises\assessment1\persistence\exceptions\InvalidEmployeeException.class
 practicalexercises\assessment1\models\Employee_.class
 practicalexercises\assessment1\persistence\exceptions\IllegalOrphanException.class
 practicalexercises\assessment1\persistence\EmployeeJpaController.class
